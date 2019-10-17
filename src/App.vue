@@ -10,7 +10,7 @@
         href="https://github.com/vuetifyjs/vuetify/releases/latest"
         target="_blank"
       >
-        <span class="mr-2">Inncosys</span>
+        <span class="mr-2">Firebase</span>
       </v-btn>
     </v-app-bar>
 
